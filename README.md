@@ -12,9 +12,9 @@ Vojtěch Vachovec - github: Vojta125,
 Náš projekt obsahuje web stránku o Školním florbalovém turnaji týmu Démoni.
 
 # Rozdělení práce
-ondis-sp: 
-Vojta125: 
-MamRadMalyDeti: 
+ondis-sp: ,
+Vojta125: ,
+MamRadMalyDeti: ,
 
 # Postup práce
 
