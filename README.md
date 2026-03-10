@@ -16,10 +16,12 @@ Formulář na přihlášky.
 Jednoduchý web v HTML a CSS.
 
 # Rozdělení práce
-ondis-sp: ,
-Vojta125: ,
-MamRadMalyDeti: ,
+ondis-sp: index.html, img složka, ReadMe,
+Vojta125: style.css, vymýšlení o čem náš web bude,
+MamRadMalyDeti: formulář, index.html,
 
 # Postup práce
+Jako první jsme si připravili ReadMe. Potom jsme začali dělat index.html a součastně style.css. Potom jsme udělali složku img a dali do ní foto. Pak jsme dodělali ReadMe. A nakonec udělali pár posledních úprav a bylo hotovo
 
 # Jak projekt spustit
+Kliknete na zelené tlačítko code v našem repozitáři. Následně se vám otevře menu a zmáčknete tlačítko Download ZIP. Následně otevřete nově stažený ZIP soubor a extrahujete ho. Poté pouze stačí otevřít extrahovanou složku a otevřít soubor jménem index.html. 
